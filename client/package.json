@@ -30,7 +30,7 @@
     "file-saver": "^1.3.3",
     "lodash": "^4.17.4",
     "ng2-page-scroll": "4.0.0-beta.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "papaparse": "4.4.0",
     "rxjs": "^6.2.0",
     "talisman": "^0.16.0",
